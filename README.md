@@ -3,6 +3,17 @@
 
 This project involves an in-depth analysis of a dataset related to the delivery of orders. The goal is to identify the factors that influence whether an order reaches its destination on time.
 
+# Team
+------------
+
+Abhijit Mishra (2024H1540825P)
+
+Sameer Ravi Kanth (2024H1540835P)
+
+Ayushman Pant (2024H1540803P)
+
+Rajdeep Nath (2024H1540830P)
+
 # Dataset
 ------------
 
